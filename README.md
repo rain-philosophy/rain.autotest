@@ -60,6 +60,10 @@ assert len(goods) == 2, 'smth wrong'
 
 message = browser.find_element_by_id("verify_message")
 assert "successful" in message.text
+
+catalog_text = self.catalog_link.text # считываем текст и записываем его в переменную,чтобы не брать два раза
+assert catalog_text == "Каталог", \
+    f"Wrong language, got {catalog_text} instead of 'Каталог'"  
 ```
 ###### get_atribute
 ```python

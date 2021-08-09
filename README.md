@@ -61,6 +61,8 @@ assert len(goods) == 2, 'smth wrong'
 message = browser.find_element_by_id("verify_message")
 assert "successful" in message.text
 
+assert "login" in browser.current_url, # сообщение об ошибке
+
 catalog_text = self.catalog_link.text # считываем текст и записываем его в переменную,чтобы не брать два раза
 assert catalog_text == "Каталог", \
     f"Wrong language, got {catalog_text} instead of 'Каталог'"  
@@ -209,6 +211,7 @@ ___
 [форматирование readme](https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)       
 [... что такое переменная PATH?](http://barancev.github.io/what-is-path-env-var/)        
 [отучаемся от токсичных code-review](https://habr.com/ru/post/453968/)      
+[youtube: if __name __ == '__main__': что это значит](https://www.youtube.com/watch?v=cW_-zGG4ef4)      
 ###### css:
 [тренажер по css-селекторам](https://flukeout.github.io/)      
 [css-селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)       

@@ -210,7 +210,6 @@ ___
 [css sselector reference](https://www.w3schools.com/cssref/css_selectors.asp)       
 [статья на хабре: Селекторы CSS и их применение в автоматизации тестирования Программного Обеспечения](https://habr.com/ru/company/otus/blog/350368/)       
 [... как строить хорошие локаторы?](http://barancev.github.io/good-locators/)        
-[](
 ###### selenium:
 [атрибуты html](https://www.w3schools.com/tags/ref_attributes.asp)         
 [пояснение за expected_conditions для explicit wait](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.expected_conditions)       

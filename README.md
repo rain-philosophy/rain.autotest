@@ -203,9 +203,23 @@ caps['pageLoadStrategy'] = 'none' # Do not wait for full page load
 ___
 ##### --help
 [форматирование readme](https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)       
+[... что такое переменная PATH?](http://barancev.github.io/what-is-path-env-var/)        
+###### css:
 [тренажер по css-селекторам](https://flukeout.github.io/)      
 [css-селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)       
 [css sselector reference](https://www.w3schools.com/cssref/css_selectors.asp)       
 [статья на хабре: Селекторы CSS и их применение в автоматизации тестирования Программного Обеспечения](https://habr.com/ru/company/otus/blog/350368/)       
+[... как строить хорошие локаторы?](http://barancev.github.io/good-locators/)        
+[](
+###### selenium:
 [атрибуты html](https://www.w3schools.com/tags/ref_attributes.asp)         
 [пояснение за expected_conditions для explicit wait](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.expected_conditions)       
+[... ограничение времени загрузки страницы](http://barancev.github.io/slow-loading-pages/)      
+[... что означает "окончание загрузки страницы"?](http://barancev.github.io/page-loading-complete/)       
+[How to Get Selenium to Wait for Page Load After a Click](https://www.cloudbees.com/blog/get-selenium-to-wait-for-page-load)       
+###### git:
+[тренажер по git](https://learngitbranching.js.org/)        
+[книга по git](https://git-scm.com/book/ru/v2/)     
+[еще одна книга по git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)        
+[git для даунов на примере котиков](https://habr.com/ru/company/intel/blog/344962/)        
+[еще один тренажер по git](https://githowto.com/ru)     

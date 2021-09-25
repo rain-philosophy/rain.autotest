@@ -206,6 +206,16 @@ caps = DesiredCapabilities.CHROME
 browser = webdriver.Chrome(desired_capabilities=caps)
 caps['pageLoadStrategy'] = 'none' # Do not wait for full page load
 ```
+###### saving and adding packages via requirements.txt
+```
+$ pip freeze > requirements.txt
+
+$ mkdir environments
+$ cd environments
+$ python3 -m venv selenium_env
+$ source selenium_env/bin/activate
+$ pip install -r requirements.txt
+```
 ___
 ##### --help
 [форматирование readme](https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)       

@@ -240,3 +240,6 @@ ___
 [еще одна книга по git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)        
 [git для даунов на примере котиков](https://habr.com/ru/company/intel/blog/344962/)        
 [еще один тренажер по git](https://githowto.com/ru)     
+###### watchit:
+[Deep dive into Selenium Waits | Selenium camp](https://www.youtube.com/watch?v=8xbb0NM4l8k&list=LLjxGlxPz50ey7VcmjVlV3JQ&ab_channel=SeleniumCamp)        
+[Serverless – Automated Tests of web apps in the Cloud world](https://www.youtube.com/watch?v=R4Foq84tjfs&ab_channel=SeleniumCamp)       
